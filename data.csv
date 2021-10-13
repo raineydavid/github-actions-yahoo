@@ -1,0 +1,73 @@
+number,symbol,name,Mohs hardness,Vickers hardness(MPa),Brinell hardness(MPa),Brinell hardness(MPa)[note
+3,Li,lithium,0.6,,5,
+4,Be,beryllium,5.5,1670,590–1320,
+5,B,boron,9.3-9.5 ,4900-5800 ,,
+6,C,carbon (graphite),0.5,,,
+6,C,carbon (diamond),10.0,,,
+11,Na,sodium,0.5,,0.69,
+12,Mg,magnesium,2.5,,260,44 (cast)
+13,Al,aluminium,2.75,160–350,160–550,184
+14,Si,silicon,6.5,,,
+16,S,sulfur,2.0,,,
+19,K,potassium,0.4,,0.363,
+20,Ca,calcium,1.75,,170,416
+21,Sc,scandium,,,736–1200,
+22,Ti,titanium,6.0,830–3420,716–2770,1028
+23,V,vanadium,7.0,628–640,600–628,742
+24,Cr,chromium,8.5,1060,687-6500,688
+25,Mn,manganese,6.0,,196,
+26,Fe,iron,4.0,608,200-1180,
+27,Co,cobalt,5.0,1043,470–3000,1291
+28,Ni,nickel,4.0,638,667–1600,900–1200
+29,Cu,copper,3.0,343–369,235–878,520
+30,Zn,zinc,2.5,,327–412,480–520
+31,Ga,gallium,1.5,,56.8–68.7,
+32,Ge,germanium,6.0,,,
+33,As,arsenic,3.5,,1440,
+34,Se,selenium,2.0,,736,
+37,Rb,rubidium,0.3,,0.216,
+38,Sr,strontium,1.5,,,
+39,Y,yttrium,,,200–589,
+40,Zr,zirconium,5.0,820–1800,638–1880,333
+41,Nb,niobium,6.0,870–1320,735–2450,735
+42,Mo,molybdenum,5.5,1400–2740,1370–2500,1340 (cast)
+44,Ru,ruthenium,6.5,,2160,1795
+45,Rh,rhodium,6.0,1100–8000,980–1350,540
+46,Pd,palladium,4.75,400–600,320–610,310
+47,Ag,silver,2.5,250,245–250,206
+48,Cd,cadmium,2.0,,203–220,196
+49,In,indium,1.2,,8.83-10,9.8
+50,Sn,tin,1.5,,51–75,292–441 (cast)
+51,Sb,antimony,3.0,,294–384,
+52,Te,tellurium,2.25,,180–270,
+55,Cs,caesium,0.2,,0.147,
+56,Ba,barium,1.25,,,
+57,La,lanthanum,2.5,360–1750,350–400,
+58,Ce,cerium,2.5,210–470,186–412,
+59,Pr,praseodymium,,250–746,250–638,
+60,Nd,neodymium,,343–746,265–700,
+61,Pm,promethium,,617.8,,
+62,Sm,samarium,,412–441,441–600,
+63,Eu,europium,,167–200,,
+64,Gd,gadolinium,,510–950,,
+65,Tb,terbium,,450–863,677–1200,
+66,Dy,dysprosium,,412–550,500–1050,
+67,Ho,holmium,,412–600,500–1250,
+68,Er,erbium,,432–700,600–1070,
+69,Tm,thulium,,470–650,471–900,
+70,Yb,ytterbium,,206–250,343–441,
+71,Lu,lutetium,,755–1160,893–1300,
+72,Hf,hafnium,5.5,1520–2060,1450–2100,
+73,Ta,tantalum,6.5,873–1200,441-3430,441–1224
+74,W,tungsten,7.5,3430–4600,2000–4000,1960–2450
+75,Re,rhenium,7.0,1350-7850,1320–2500,
+76,Os,osmium,7.0,,3920–4000,3487
+77,Ir,iridium,6.5,1760–2200,1670,2120
+78,Pt,platinum,3.5,400–549,310–500,299
+79,Au,gold,2.5,188–216,188–245,189
+80,Hg,mercury,1.5,,,
+81,Tl,thallium,1.2,,26.5–44.7,
+82,Pb,lead,1.5,,38–50,37.5–41.8 (cast)
+83,Bi,bismuth,2.25,,70–94.2,70
+90,Th,thorium,3.0,294–687,390–1500,
+92,U,uranium,6.0,1960–2500,2350–3850,
